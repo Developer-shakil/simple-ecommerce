@@ -200,8 +200,8 @@ img {
     margin-right: 5px;
   }
   .f-item h3 {
-    font-size: 21px;
-    margin-left: 10px;
+    font-size: 20px;
+    margin-left: 7px;
   }
 }
 @media (max-width: 576px) {
@@ -227,6 +227,10 @@ img {
   .f-item img {
     width: 34px;
     margin-right: 5px;
+  }
+  .f-item h3 {
+    font-size: 19px;
+    margin-left: 6px;
   }
   .subscribe-form {
     padding: 50px 58px;
