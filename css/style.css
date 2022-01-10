@@ -188,14 +188,15 @@ img {
   }
   .btn-pink {
     padding: 5px 14px;
-    font-size: 12px;
+    font-size: 13px;
+    border-radius: 3px;
   }
   .slider-wrapper {
     padding: 20px 22px;
     border-radius: 7px;
   }
   .f-item img {
-    width: 40px;
+    width: 37px;
     margin-right: 5px;
   }
   .f-item h3 {
@@ -222,6 +223,10 @@ img {
   }
   .slider-section {
     margin: 0;
+  }
+  .f-item img {
+    width: 34px;
+    margin-right: 5px;
   }
   .subscribe-form {
     padding: 50px 58px;
